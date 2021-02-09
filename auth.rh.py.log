@@ -1,0 +1,16 @@
+# auth and useful stuff
+
+
+# cd botStuff/
+# python3.7
+
+# import os 
+# import time
+# import robin_stocks as rs
+# import math
+# import sys
+# rs.login(username='you@domain.com', password=('897698123790813'), expiresIn=86400, by_sms=True)
+# rs.orders.cancel_all_crypto_orders()
+# rs.orders.cancel_all_stock_orders()
+
+
